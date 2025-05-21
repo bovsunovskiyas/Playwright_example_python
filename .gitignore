@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Playwright-specific
+test-results/
+playwright-report/
+playwright/.cache/

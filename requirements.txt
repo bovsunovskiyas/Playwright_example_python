@@ -1,0 +1,4 @@
+playwright
+pytest
+pytest-playwright
+# flake8 (опціонально, для лінтингу)
